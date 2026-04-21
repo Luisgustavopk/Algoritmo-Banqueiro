@@ -10,6 +10,7 @@ Implementação multithreaded do **Algoritmo do Banqueiro** em C com Pthreads, c
 ```
 banker-algorithm/
 ├── banker.c
+├── .gitignore
 └── README.md
 ```
 
