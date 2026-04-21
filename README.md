@@ -1,7 +1,7 @@
 # Trabalho Prático 1 — Algoritmo do Banqueiro
 
 
-Implementação multithreaded do **Algoritmo do Banqueiro** em C com Pthreads, conforme o Trabalho Prático 1 da disciplina de Fundamentos de Sistemas Operacionais.
+Implementação multithreaded do **Algoritmo do Banqueiro** em C com Pthreads, conforme o Trabalho Prático 1 da disciplina de Sistemas Operacionais.
 
 ---
 
