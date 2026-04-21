@@ -1,0 +1,4 @@
+banker.exe
+banker
+*.o
+.vscode/
